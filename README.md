@@ -6,12 +6,12 @@
 5. Lalu buatlah daftar nilai mahasiswa dan menampilkan data nilai yang telah ditambahkan ke dalam objek dari kelas DaftarNilaiMahasis
 
 # PRAKTIKUM 
-![gambar](pht1)
-![gambar](pht2)
-![gambar](pht3)
+![gambar](pht1.png)
+![gambar](pht2.png)
+![gambar](pht3.png)
 
 # DIAGRAM CLASS
-![gambar](diagram8)
+![gambar](diagram8.png)
 
 # FLOWCHART
-![gambar](flowchart8)
+![gambar](flowchart8.png)
